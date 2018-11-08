@@ -7,6 +7,7 @@ class Calculator(object):
 
   def double(self, number):
     return 2 * number
+    test
 
 if __name__ == '__main__':
   fire.Fire(Calculator)
